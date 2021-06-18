@@ -4,4 +4,4 @@
 
 - 바탕화면에 `react-app`폴더 만들기.
 
-- cmd에서 해당 폴더로 가서, `create-react-app`입력.
+- cmd에서 해당 폴더로 가서, `create-react-app .`입력.
